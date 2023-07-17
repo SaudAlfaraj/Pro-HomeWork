@@ -2,6 +2,7 @@
 - الأنواع الإطارات في الواجب :
 
 -Solid
+
 -dashed
 -dotted
 -double
