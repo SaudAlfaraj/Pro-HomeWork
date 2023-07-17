@@ -4,9 +4,15 @@
 -Solid
 
 -dashed
+
 -dotted
+
 -double
+
 -groove
+
 -ridge
+
 -inset
+
 -outset
