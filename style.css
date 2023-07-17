@@ -1,0 +1,75 @@
+.borders {
+    padding: 20px;
+    text-align: center;
+}
+
+#border-1 {
+    border: 10px solid red;
+    width: 10%;
+    text-align: center;
+    border-radius: 2%;
+    margin-bottom: 50px;
+    margin: 50px auto;
+}
+
+#border-2 {
+    border: 10px dashed green;
+    width: 10%;
+    text-align: center;
+    border-radius: 2%;
+    margin: 50px auto;
+}
+
+#border-3 {
+    border: 10px dotted black;
+    width: 10%;
+    text-align: center;
+    border-radius: 2%;
+    margin-bottom: 50px;
+    margin: 50px auto;
+}
+
+#border-4 {
+    border: 10px double yellow;
+    width: 10%;
+    text-align: center;
+    border-radius: 2%;
+    margin-bottom: 50px;
+    margin: 50px auto;
+}
+
+#border-5 {
+    border: 10px groove brown;
+    width: 10%;
+    text-align: center;
+    border-radius: 2%;
+    margin-bottom: 50px;
+    margin: 50px auto;
+}
+
+#border-6 {
+    border: 10px ridge blue;
+    width: 10%;
+    text-align: center;
+    border-radius: 2%;
+    margin-bottom: 50px;
+    margin: 50px auto;
+}
+
+#border-7 {
+    border: 10px inset gray;
+    width: 10%;
+    text-align: center;
+    border-radius: 2%;
+    margin-bottom: 50px;
+    margin: 50px auto;
+}
+
+#border-8 {
+    border: 10px outset pink;
+    width: 10%;
+    text-align: center;
+    border-radius: 2%;
+    margin-bottom: 50px;
+    margin: 50px auto;
+}
